@@ -9,3 +9,6 @@ node_modules/
 楽屋/**/*.json
 楽屋/マイアクティビティ*
 楽屋/分割/
+
+# 会話ログ抽出スクリプトのローカル状態（処理済み uuid のみ。logs/*.md 本体は追跡する）
+logs/.processed_uuids
